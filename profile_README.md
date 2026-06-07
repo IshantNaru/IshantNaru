@@ -58,4 +58,4 @@ The same pattern-recognition applies everywhere. I've logged 840+ espresso and p
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/your-link) &nbsp;·&nbsp; Delhi, India &nbsp;·&nbsp; Open to research-oriented and scientific AI roles
+[LinkedIn](https://www.linkedin.com/in/ishantnaru121994/) &nbsp;·&nbsp; Delhi, India &nbsp;·&nbsp; Open to research-oriented and scientific AI roles
