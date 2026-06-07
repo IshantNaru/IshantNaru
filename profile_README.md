@@ -53,7 +53,9 @@ The engineering background is not incidental. It's where the systems thinking ca
 ## Outside the work
 
 The same pattern-recognition applies everywhere. For many years I've taken coffee brewing as a hobby and formed a cafe-level brew-bar setup at home. I've logged 840+ espresso and pour-over brews with 49 variables (each tracked and recorded) with flavor and extraction yield % as the target — coffee as a controlled system.
+
 I apply the same mindset in optimizing my gym workouts with deliberate designing the structure - exercise selection, sequencing, time constraints, logging PR while considering a target like Hypertrophy/Strength/Agility as the personal goal. 
+
 I study chess, play piano, and am learning Spanish and Italian. The approach is consistent: find the variables, understand the structure, optimise. The domain is just a surface.
 
 ---
